@@ -27,7 +27,7 @@
     </parent>
     <artifactId>carbon-kernel</artifactId>
     <packaging>pom</packaging>
-    <name>WSO2 Carbon - Kernel Parent Maven Project</name>
+    <name>WSO2 Carbon - Kernel Parent Maven Projects</name>
     <description>carbon-parent</description>
     <url>http://wso2.org</url>
 
