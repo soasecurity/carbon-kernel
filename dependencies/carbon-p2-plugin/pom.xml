@@ -76,7 +76,7 @@
     <repositories>
         <repository>
 			<id>sonatype-release</id>
-			<url>http://repository.sonatype.org/content/groups/sonatype-public-grid</url>
+			<url>https://repository.sonatype.org/content/groups/sonatype-public-grid</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
@@ -87,12 +87,12 @@
         <repository>
             <id>dist-wso2</id>
             <name>WSO2 Standard Repository</name>
-            <url>http://dist.wso2.org/maven2</url>
+            <url>https://dist.wso2.org/maven2</url>
         </repository>
         <repository>
             <id>wso2-maven2-repository-snapshot</id>
             <name>WSO2 Standard Snapshot Repository</name>
-            <url>http://dist.wso2.org/snapshots/maven2</url>
+            <url>https://dist.wso2.org/snapshots/maven2</url>
         </repository>
     </repositories>
     <distributionManagement>
